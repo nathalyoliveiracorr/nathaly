@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+
+<body>
+    <header class="container text-center">
+        <img src="img/avatar-perfil.png" alt="avatar da Nathaly" class="rounded-circle" width="150" height="150"
+            srcset="">
+        <p class="lead">Eu sou Nathaly_</p>
+        <h1>Eu estou cursando o ensino médio</h1>
+        <p>Pretendo cursar Biologia na Unifatea </p>
+        <p>Minhas habilidades</p>
+        <div>
+            <p class="badge bg-secondary">Jogar truco</p>
+            <p class="badge bg-secondary">Fazer bolo</p>
+            <p class="badge bg-secondary">Organizada</p>
+            <p class="badge bg-secondary">Fazer amizade com facilidade</p>
+        </div>
